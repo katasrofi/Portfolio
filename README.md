@@ -5,7 +5,7 @@ I have completed these data science projects for academic purposes, self-learnin
 - LinkedIn: [linkedin.com/danielrivalsyah](https://www.linkedin.com/in/daniel-r-618682137/)
 
 ## Project
-<img align="left" width="250" height="150" src='image/fraud.jpeg'> **[Unsmasking Deception: Advanced Credit Card Fraud Detection](https://github.com/katasrofi/fraud_detection)**
+<img align="left" width="250" height="150" src='image/fraud.jpeg'> **[Unmasking Deception: Advanced Credit Card Fraud Detection](https://github.com/katasrofi/fraud_detection)**
 
 In this project, I employed statistical methods including Anderson-Darling, Shapiro-Wilk, and Skewness, to explore the data and implemented machine learning models such as Neural Network, Catboost, SGDClassifier, Logistic Regression, and GaussianNB for outcome prediction.
 
