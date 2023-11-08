@@ -1,8 +1,8 @@
 # Data Science Portfolio - Daniel Rivalsyah
-This all data science project are I have done for academy, self-learning and hobbies. This portfolio also curtain my skills and certificates
+I have completed these data science projects for academic purposes, self-learning, and personal hobbies. This portfolio also showcases my skills and certifications.
 
 - Email: danielrivalsyah@gmail.com
-- LinkedIn: linkedin.com/in/daniel-r-618682137/
+- LinkedIn: [linkedin.com/danielrivalsyah](https://www.linkedin.com/in/daniel-r-618682137/)
 
 ## Project
 [Unsmasking Deception: Advanced Credit Card Fraud Detection](https://github.com/katasrofi/fraud_detection) 
