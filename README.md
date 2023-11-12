@@ -43,4 +43,6 @@ The primary objective of this project is to perform an in-depth analysis to dete
    - Amazon Web Services (AWS)
    - MS Excel
 ## Certifications
+- [Data Science Foundations](Certificates/365_bootcamp.pdf)
 - [Deep Learning Training By Udemy](Certificates/deepLearning.pdf)
+
