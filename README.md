@@ -13,6 +13,10 @@ In this project, I employed statistical methods including Anderson-Darling, Shap
 
 The primary objective of this project is to perform an in-depth analysis to determine the optimal advertising strategy for the market. Utilizing A/B testing methodologies, specifically the Chi-square Contingency method, will guide us in making well-informed decisions for our new advertising campaign.
 
+<img align="left" width="250" height="150" src='image/salesGrowth.png'> **[Unlocking Sales Potential: A Comprehensive Market Analysis of Grocery Purchases through Apriori Association Rules](https://github.com/katasrofi/market_analysis)**
+
+The main goal of this project is to conduct a comprehensive analysis of the grocery business performance through time series analysis, aiming to enhance profitability. The Apriori algorithm will be employed for in-depth research on association rules within product sales.
+
 ## Core Competencies
 - Methodologies:
    - Machine Learning
