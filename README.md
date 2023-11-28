@@ -1,5 +1,5 @@
 # Data Science Portfolio - Daniel Rivalsyah
-I have completed these data science projects for academic purposes, self-learning, and personal hobbies. This portfolio also showcases my skills and certifications.
+This portfolio showcases a collection of data science and data analysis projects that I have undertaken for academic purposes, self-learning, and personal hobbies. It is regularly updated to reflect my ongoing endeavors in the field. Additionally, this portfolio serves as a demonstration of my acquired skills and certifications.
 
 - Email: danielrivalsyah@gmail.com
 - LinkedIn: [linkedin.com/danielrivalsyah](https://www.linkedin.com/in/daniel-r-618682137/)
