@@ -49,7 +49,7 @@ The main goal of this project is to conduct a comprehensive analysis of the groc
 ## Certifications
 - [Data Science Foundations By 365 Careers and Udemy](Certificates/365_bootcamp.pdf)
 - [Deep Learning Training By SuperDataScience Team and Udemy](Certificates/deepLearning.pdf)
-- [Machine Learning By SuperDataScience Team and Udemy](Certificates/ML-Certificates.jpeg)
+- [Machine Learning By SuperDataScience Team and Udemy](Certificates/ML-Certificate.jpeg)
 - [Python Language by Kaggle](Certificates/Python.png)
 - [Pandas Manipulation by Kaggle](Certificates/Pandas.png)
 
