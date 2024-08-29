@@ -22,6 +22,7 @@ The main goal of this project is to conduct a comprehensive analysis of the groc
 This project aim to predict how well the sales performance in six month ahead using xgboost with return value or percentage change as a target. This project also analysis how customer behaviour purchase in various factor
 
 
+
 ## Extra Project
 **[Filter Search](https://github.com/katasrofi/auto_filter_search)** This tool helps filter ads and irrelevant content when you are searching for specific information on a website that you trust. It is created using Python and runs in the terminal.
 
