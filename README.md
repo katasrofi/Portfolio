@@ -17,6 +17,12 @@ The primary objective of this project is to perform an in-depth analysis to dete
 
 The main goal of this project is to conduct a comprehensive analysis of the grocery business performance through time series analysis, aiming to enhance profitability. The Apriori algorithm will be employed for in-depth research on association rules within product sales.
 
+<img align="left" width="250" height="150" src='image/predict.jpg'> **[Predictive Modeling for Walmart Sales Using Time Series Forecasting](https://github.com/katasrofi/sales_performance)**
+
+
+## Extra Project
+
+
 ## Core Competencies
 - Methodologies:
    - Machine Learning
