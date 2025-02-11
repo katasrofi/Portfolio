@@ -25,6 +25,7 @@ This project aim to predict how well the sales performance in six month ahead us
 
 ## Web Project 
 <img align="left" width="100" height="90" src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.v_guS6uAK1GFtaUvFVmqmgHaE8%26pid%3DApi&f=1&ipt=d2eed4b5a73fb318bcd17b10d7c11718129b3733161df3eeca50958e358cba38&ipo=images'> **[Online Shop](https://github.com/katasrofi/OnlineShop)**
+
 Still in process
 
 <br>
