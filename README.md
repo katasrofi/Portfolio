@@ -1,10 +1,10 @@
-# Data Science Portfolio - Daniel Rivalsyah
+# Portfolio - Daniel Rivalsyah
 This portfolio showcases a collection of data science and data analysis projects that I have undertaken for academic purposes, self-learning, and personal hobbies. It is regularly updated to reflect my ongoing endeavors in the field. Additionally, this portfolio serves as a demonstration of my acquired skills and certifications.
 
 - Email: danielrivalsyah@gmail.com
 - LinkedIn: [linkedin.com/danielrivalsyah](https://www.linkedin.com/in/daniel-r-618682137/)
 
-## Project
+## Machine Learning Project
 <img align="left" width="250" height="150" src='image/fraud.jpeg'> **[Unmasking Deception: Advanced Credit Card Fraud Detection](https://github.com/katasrofi/fraud_detection)**
 
 In this project, I employed statistical methods including Anderson-Darling, Shapiro-Wilk, and Skewness, to explore the data and implemented machine learning models such as Neural Network, Catboost, SGDClassifier, Logistic Regression, and GaussianNB for outcome prediction.
